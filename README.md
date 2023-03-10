@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -17,33 +17,28 @@
 
 <br>
 
-<p align="center">
-  <img alt="projeto Habits" src="./images/README.jpg" width="100%">
-</p>
+## 🚀 Technologies
 
-## 🚀 Tecnologias
+This project was developed with the following technologies:
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-- JavaScript
+- HTML5 e CSS3
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O Habits é um app para ajudar a rastrear os hábitos.
+The Space Cream Project, is a website for the sale of ice cream, popsicles and pasta.
 
-- [Visite o projeto online](https://marcellomello90.github.io/project-NLW11/)
+- [Visit the project online](https://marcellomello90.github.io/stage03-grid-animation/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can preview the project layout through [FROM THIS LINK](https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR/Stage-03---Grid-com-anima%C3%A7%C3%B5es?node-id=0%3A1&t=ZwxBPsZ5doKfvadk-0).You must have an account at [Figma](https://figma.com) to access it.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is licensed under the MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Made with ♥ by Rocketseat :wave: [Join our community!](https://discord.gg/rocketseat)
